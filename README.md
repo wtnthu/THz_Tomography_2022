@@ -20,4 +20,4 @@
 ![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/robot.gif)
 
 # Skull
-![image](https://github.com/wtnthu/THz_Tomography/blob/main/3D/skull.gif)
+![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_skull.gif)
