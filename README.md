@@ -14,7 +14,7 @@
 ![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_eevee.gif)
 
 # Bear
-![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_polarbear.gif)
+![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_polar.gif)
 
 # Robot
 ![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_robot.gif)
