@@ -5,7 +5,7 @@
 ![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_box.gif)
 
 # Deer
-![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_deer.gif)
+![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_deer.mp4)
 
 # DNA
 ![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_dna.gif)
