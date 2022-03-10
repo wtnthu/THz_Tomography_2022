@@ -21,3 +21,9 @@
 
 # Skull
 ![image](https://github.com/wtnthu/THz_Tomography_eccv2022/blob/main/3D/3D_skull.gif)
+
+## Image Restoration Experiments
+<img src='./fig/exp_supp2.png' width=900>
+Qualitative comparison of THz image restoration results for seven ob-
+jects from left to right: (a) Time-max, (b) DnCNN-S, (c) RED, (d) NBNet,
+(e) U-Netbase, (f) U-NetMS, (g) SARNet, and (h) the ground-truth.
