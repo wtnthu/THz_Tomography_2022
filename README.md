@@ -24,6 +24,5 @@
 
 ## Image Restoration Experiments
 <img src='./3D/exp_supp2.png' width=900>
-Qualitative comparison of THz image restoration results for seven ob-
-jects from left to right: (a) Time-max, (b) DnCNN-S, (c) RED, (d) NBNet,
+Qualitative comparison of THz image restoration results for seven objects from left to right: (a) Time-max, (b) DnCNN-S, (c) RED, (d) NBNet,
 (e) U-Netbase, (f) U-NetMS, (g) SARNet, and (h) the ground-truth.
